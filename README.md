@@ -17,6 +17,7 @@
 - I am fluent in portuguese 🇧🇷, english 🇺🇸 and I am fairly proficient in japanese 🇯🇵. I was looking into learning german but I am not a huge fan on how they concatenate their strings 😆.
 - Hello internet, my name is Thiago. I like playing video games, tabletop RPGs/tabletop games. Digital painting is something I would like to explore more as a hobby. I also having a ton of fun coding and building cool stuff, I really like front end in general. I am super approachable, let's talk!
 - 📫 For job related inquiries, reach me through: <a href = "mailto:thiago3510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 For code related related and anything else: <a href = "mailto:thiagobarbosawebdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
