@@ -11,7 +11,7 @@
 
 ### About Me :
 
-- Graduated in Library Sciency and now trasitioning to web development. 
+- Graduated in Library Science and now trasitioning to web development. 
 - I use the MERN stack when doing fullstack development (Mongo/MySQL Express React Node).
 - I’m looking to collaborate/help on JavaScript, React and Redux.
 - I am fluent in portuguese 🇧🇷, english 🇺🇸 and I am fairly proficient in japanese 🇯🇵. I was looking into learning german but I am not a huge fan on how they concatenate their strings 😆.
