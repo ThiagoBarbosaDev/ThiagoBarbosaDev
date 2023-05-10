@@ -8,16 +8,25 @@
 </div>
 
 ---
+ 🇺🇸 
+ ### About Me :
 
-### About Me :
-
-- Graduated in Library Science and now trasitioning to web development. 
-- I use the MERN stack when doing fullstack development (Mongo/MySQL Express React Node).
-- I’m looking to collaborate/help on JavaScript, React and Redux.
+- I am a full stack web developer using the MERN stack (Mongo/MySQL Express React Node).
+- I’m looking to collaborate/help on React.js and Node.js.
 - I am fluent in portuguese 🇧🇷, english 🇺🇸 and I am fairly proficient in japanese 🇯🇵. I was looking into learning german but I am not a huge fan on how they concatenate their strings 😆.
 - Hello internet, my name is Thiago. I like playing video games, tabletop RPGs/tabletop games. Digital painting is something I would like to explore more as a hobby. I also having a ton of fun coding and building cool stuff, I really like front end in general. I am super approachable, let's talk!
 - 📫 For job related inquiries, reach me through: <a href = "mailto:thiago3510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - 📫 For code related related and anything else: <a href = "mailto:thiagobarbosawebdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ 🇧🇷
+ ### Sobre :
+
+- Eu sou um desenvolvedor web full stack que atua usando stack MERN (Mongo/MySQL Express React Node).
+- Estou a procura de pessoas para colaborar no ecossistema React/Node.js.
+- Falo português🇧🇷  nativamente e inglês 🇺🇸 fluente, sou também razoavelmente proficiente em japonês🇯🇵. Já procurei aprender alemão mas não curti o maneira com que eles concatenam strings 😆.
+- Olá internet, me chamo Thiago. Curto video games, RPGs de mesa e jogos de tabuleiro. Pintura digital é algo que eu gostaria mais de explorar no futuro como hobby. Estou me divertindo demais codando e construindo coisas interessantes, I tenho uma paixãozinha pelo front end geral. Sou super abordável! Gruda junto, vamos conversar!
+- 📫 Para assuntos relacionados a trabalho e oportunidades: <a href = "mailto:thiago3510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 Para assuntos relacionados a código e todo o resto: <a href = "mailto:thiagobarbosawebdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
