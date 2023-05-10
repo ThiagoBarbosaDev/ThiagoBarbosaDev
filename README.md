@@ -8,8 +8,8 @@
 </div>
 
 ---
- 🇺🇸 
- ### About Me :
+ 
+ ### 🇺🇸 About Me :
 
 - I am a full stack web developer using the MERN stack (Mongo/MySQL Express React Node).
 - I’m looking to collaborate/help on React.js and Node.js.
@@ -18,8 +18,8 @@
 - 📫 For job related inquiries, reach me through: <a href = "mailto:thiago3510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - 📫 For code related related and anything else: <a href = "mailto:thiagobarbosawebdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- 🇧🇷
- ### Sobre :
+
+ ### 🇧🇷 Sobre :
 
 - Eu sou um desenvolvedor web full stack que atua usando stack MERN (Mongo/MySQL Express React Node).
 - Estou a procura de pessoas para colaborar no ecossistema React/Node.js.
