@@ -33,22 +33,22 @@
 ### :hammer_and_wrench: Languages and Tools :
 <table width="320px" align="center">
     <tr>
-        <th colspan="4" align="center">
+        <th colspan="3" align="center">
             <span><strong>LANGUAGES</strong></span>
         </th>
     </tr>
-    <td width="80px" align="center" colspan="2">
+    <td width="80px" align="center" colspan="1">
         <span><strong>Javascript</strong></span><br>
         <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
     </td>
-        <td width="80px" align="center" colspan="2">
+        <td width="80px" align="center" colspan="1">
             <span><strong>Typescript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
         </td>
     <tr>
     </td>
-        <td width="80px" align="center" colspan="2">
-            <span><strong>Typescript</strong></span><br>
+        <td width="80px" align="center" colspan="1">
+            <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >
         </td>
     <tr>
