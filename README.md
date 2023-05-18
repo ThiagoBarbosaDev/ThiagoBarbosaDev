@@ -46,6 +46,12 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
         </td>
     <tr>
+    </td>
+        <td width="80px" align="center" colspan="2">
+            <span><strong>Typescript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >
+        </td>
+    <tr>
         <th colspan="4" align="center">
             <span><strong>FRONT END</strong></span>
         </th>
